@@ -8,10 +8,10 @@ It includes practical **packet captures (PCAPs), network filtering techniques, a
 
 ##  Lab Setup  
 ###  **Requirements:**  
-- Kali Linux / Any Linux OS  
-- Wireshark Installed (`sudo apt install wireshark`)  
-- Virtual Machines (Windows, Metasploitable, OWASP BWA)  
-- Internet connection  
+**- Kali Linux / Any Linux OS**  
+**- Wireshark Installed (`sudo apt install wireshark`)**  
+**- Virtual Machines (Windows, Metasploitable, OWASP BWA)**  
+**- Internet connection**  
 
 ###  **Installation Steps:**  ### 
 ### **1.Install Wireshark:   ```sudo apt update && sudo apt install wireshark -y```**
